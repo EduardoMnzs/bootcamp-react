@@ -34,15 +34,22 @@ Este projeto foi criado como uma **atividade prática** para ensinar aos alunos 
 
     ```bash
     git clone https://github.com/EduardoMnzs/bootcamp-react
+    ```
+
 2. Abra o arquivo:
 
     ```bash
     cd bootcamp-reac
+    ```
+
 3. Instale as dependências:
 
     ```bash
     npm install
+    ```
+
 4. Inicie com:
 
     ```bash
     npm run dev
+    ```
