@@ -9,7 +9,7 @@ Através deste projeto, os alunos do Bootcamp têm a oportunidade de aprender na
 ### Versão Online
 
 Você pode visualizar o site em sua versão HTML (deploy) através do seguinte link:
-[Visite o site do projeto React no GitHub Pages](https://rayssagm21.github.io/Bootcamp_UNIMAR_2025/)
+[Visite o site do projeto HTML no GitHub Pages](https://rayssagm21.github.io/Bootcamp_UNIMAR_2025/)
 
 ## Tecnologias Utilizadas
 
@@ -33,11 +33,11 @@ Este projeto foi criado como uma **atividade prática** para ensinar aos alunos 
 1.  Clone o repositório para sua máquina local:
 
     ```bash
-    git clone https://github.com/rayssagm21/Bootcamp_UNIMAR_2025.git
+    git clone https://github.com/EduardoMnzs/bootcamp-react
 2. Abra o arquivo:
 
     ```bash
-    cd Bootcamp_UNIMAR_2025
+    cd bootcamp-reac
 3. Instale as dependências:
 
     ```bash
